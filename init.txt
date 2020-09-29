@@ -1,0 +1,16 @@
+Point to note
+ Once you create a repo in git hub, get the repo url and clone it while in scr- source folder. 
+this will create a new locate repo mapped to your github repo. 
+Then do the following from you local to push to your github repo
+1. copy or create a file
+-touch <filename>
+2  check you current status
+-git status
+3. add the file
+-git add .
+4 commit the file 
+-git stustus
+-git commit -m "message"
+5 Push the commit to the remote repo.
+-git push
+
