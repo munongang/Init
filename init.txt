@@ -1,4 +1,4 @@
-Point to note
+Points to note
  Once you create a repo in git hub, get the repo url and clone it while in scr- source folder. 
 this will create a new locate repo mapped to your github repo. 
 Then do the following from you local to push to your github repo
